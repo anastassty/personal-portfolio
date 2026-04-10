@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-I built this portfolio to showcase my projects, skills, and experience as a Computer Science student at the University of Arkansas.
+I built this portfolio to showcase my projects, skills, and experience as a Computer Science student.
 
 ## 🔗 Live Website
 
@@ -23,8 +23,8 @@ https://anastasty-personal-portfolio.vercel.app/
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/anastassty/personal-portfolio.git
+cd personal-portfolio
 npm install
 npm run dev
 ```
