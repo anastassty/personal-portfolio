@@ -4,10 +4,12 @@ import { ChevronDown, Download, Github, Linkedin } from "lucide-react";
 const skills = [
     "Python",
     "Java",
-    "C++",
     "JavaScript",
     "React",
+    "Flask",
     "SQL",
+    "PostgreSQL",
+    "Tailwind CSS",
     "Github / Git",
     "Linux",
     "Figma",
@@ -42,8 +44,7 @@ export const Hero = () => {
                         </h1>
                         <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
                             I'm a computer science student at the University of Arkansas.
-                            Here you can check out my projects, experience, and a few things
-                            I enjoy outside of school too.
+                            Here you can check out my projects, experience, and skills.
                         </p>
                     </div>
 

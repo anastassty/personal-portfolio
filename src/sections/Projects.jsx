@@ -3,19 +3,27 @@ import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 
 const projects = [
   {
+    title: "Laser Tag System",
+    description: "A UDP-based multiplayer laser tag application built in Python for real-time communication and game logic. Integrated a PostgreSQL database with team assignment based on equipment IDs, deployed and tested on a Linux VM using Agile/sprint workflows.",
+    image: "/projects/laser-tag.png",
+    tags: ["Python", "PostgreSQL", "UDP", "Linux", "Team Project"],
+    github: "https://github.com/anastassty/Laser-Tag",
+  },
+
+  {
+    title: "Concert Ticket System",
+    description: "A full-stack concert ticket management web application with relational database schemas, JOIN queries, and aggregation functions for ticketing and revenue analysis. Built dynamic backend routes and database-driven forms supporting CRUD-style functionality.",
+    image: "/projects/concert-ticket.png",
+    tags: ["Flask", "PostgreSQL", "HTML/CSS", "SQL"],
+    github: "https://github.com/anastassty/concert-ticket-system",
+  },
+
+  {
     title: "Personal Portfolio Website",
     description: "A personal portfolio built with React and Tailwind CSS to showcase my projects, experience, and technical interests.",
     image: "/projects/portfolio.png",
     tags: ["React", "Tailwind", "JavaScript"],
-    github: "#",
-  },
-
-  {
-    title: "Laser Tag System",
-    description: "A team-based software project implementing gameplay logic, player interaction, and system functionality.",
-    image: "/projects/laser-tag.png",
-    tags: ["Python", "Git", "Team Project"],
-    github: "https://github.com/anastassty/Laser-Tag",
+    github: "https://github.com/anastassty/personal-portfolio",
   },
 
   {

@@ -1,5 +1,14 @@
 const experiences = [
   {
+    period: "Summer 2026",
+    role: "Customer Strategy Intern — Walmart & Club Account",
+    company: "Reckitt",
+    description:
+      "Supporting the customer strategy team on the Walmart & Club account, focusing on supply chain analytics, retail operations, and process improvement initiatives. Assisting with data analysis, reporting, and dashboard-driven business insights using Excel and Power BI, and collaborating cross-functionally to support analytical and operational decision-making.",
+    technologies: ["Supply Chain", "Data Analysis", "Excel", "Power BI", "Retail Analytics"],
+    current: false,
+  },
+  {
     period: "Nov 2023 — Present",
     role: "Computer Support Assistant",
     company: "University of Arkansas",

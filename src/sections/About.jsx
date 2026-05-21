@@ -4,7 +4,7 @@ const highlights = [
     {
         icon: Code2,
         title: "Software Projects",
-        description: "Built projects in Python, JavaScript, Java, and React, including games, problem-solving tools, and interactive applications.",
+        description: "Built full-stack web applications and systems using Python, Flask, PostgreSQL, JavaScript, and React.",
     },
 
     {
@@ -16,7 +16,7 @@ const highlights = [
     {
         icon: Users,
         title: "Team Experience",
-        description: "Worked on team-based projects in class and student programs, contributing to design, development, and problem solving.",
+        description: "Worked on team-based projects using Agile sprint workflows, contributing to development, testing, and integration.",
     },
 
     {
@@ -44,15 +44,19 @@ export const About = () => {
                         </h2>
                         <div className="space-y-4 text-muted-foreground)] animate-fade-in animation-delay-200">
                             <p>
-                                I’m a Computer Science student at the University of Arkansas who enjoys building software and learning how technology works behind the scenes.
+                                I’m a Computer Science student at the University of Arkansas who enjoys building practical projects and learning through hands-on experience. What interests me most about technology is seeing how technical systems connect to real-world problems, business decisions, and user experiences.
                             </p>
 
                             <p>
-                                I come from an international background and speak Russian, Turkish, and English, and I also have some Spanish. Being able to communicate across different cultures has helped me work with many different people and perspectives.
+                                Alongside school, I work as a Computer Support Assistant at my university, helping maintain classroom technology and troubleshoot hardware and software issues for faculty and students. Working in both technical and collaborative environments has helped me become more adaptable and comfortable communicating with different kinds of people.
                             </p>
 
                             <p>
-                                I’m especially interested in artificial intelligence and assistive technologies, and I enjoy exploring how software can make technology more useful and accessible.
+                                I also enjoy connecting with people from different backgrounds and perspectives. Being multilingual and having international experience has made me more curious, open-minded, and interested in how technology impacts people in different ways.
+                            </p>
+
+                            <p>
+                                I’m always looking for opportunities to keep learning, work on projects that actually matter, and connect with people doing interesting things.
                             </p>
                         </div>
                         <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
